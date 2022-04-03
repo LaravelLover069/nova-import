@@ -47,6 +47,7 @@ namespace App\Nova\Actions;
 use Illuminate\Bus\Queueable;
 use Anaseqal\NovaImport\Actions\Action;
 use Illuminate\Support\Collection;
+use Laravel\Nova\Actions\Action;
 use Laravel\Nova\Fields\ActionFields;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Queue\InteractsWithQueue;
